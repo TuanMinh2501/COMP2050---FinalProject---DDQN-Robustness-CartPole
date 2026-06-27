@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# LaTeX
+*.aux
+*.out
+*.synctex.gz
+*.toc
+*.zip
+
+# Models
+assets/best_model.pth
+
+# OS files
+.DS_Store
+Thumbs.db
