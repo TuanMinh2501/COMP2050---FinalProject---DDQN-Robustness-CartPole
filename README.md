@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DDQN Robustness Analysis: CartPole-v1
 This project explores the trade-off between learning efficiency and policy robustness in reinforcement learning. By implementing a Double Deep Q-Network (DDQN) with a custom Dual-Reward Shaping mechanism, this project demonstrates how aggressive reward optimization can lead to "environmental overfitting" in the CartPole-v1 environment.
 
@@ -43,3 +44,6 @@ My analysis reveals that while dense reward shaping accelerates convergence in n
 
 License
 This project is licensed under the MIT License.
+=======
+# COMP2050---FinalProject---DDQN-Robustness-CartPole
+>>>>>>> 980f5d28107119839a75bc375d17850fd7005281
